@@ -22,4 +22,4 @@ Get started with a huge collection of over 120+ website sections powered by Tail
 🔗 [Flowbite Library](https://flowbite.com/docs/getting-started/introduction/)
 🔗 [Tailwind CSS](https://tailwindcss.com/)
 Screenshot
-![Landing Page Screenshot](https://camo.githubusercontent.com/ce5580fc0cee2a94605f21437fde6d5d3de3b923a466d758b0960babe1ea2fe5/68747470733a2f2f666c6f6f77626974652e73332e616d617a6f6e6177732e636f6d2f6769746875622f73637265656e73686f742e706e67)
+![Landing Page Screenshot][(https://camo.githubusercontent.com/ce5580fc0cee2a94605f21437fde6d5d3de3b923a466d758b0960babe1ea2fe5/68747470733a2f2f666c6f6f77626974652e73332e616d617a6f6e6177732e636f6d2f6769746875622f73637265656e73686f742e706e67)](https://camo.githubusercontent.com/ce5580fc0cee2a94605f21437fde6d5d3de3b923a466d758b0960babe1ea2fe5/68747470733a2f2f666c6f77626974652e73332e616d617a6f6e6177732e636f6d2f6769746875622f73637265656e73686f742e706e67)
